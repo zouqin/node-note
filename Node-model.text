@@ -1,0 +1,6 @@
+1.Node模块
+
+Node应用由模块组成，采用CommonJS模块规范。
+其中CommonJS 定义了： require(模块引用) : 引入外部文件
+					 exports( 模块定义 ) : 用于导出当前模块的方法或变量
+					 模块标识( module );

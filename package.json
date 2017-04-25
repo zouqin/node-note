@@ -1,0 +1,23 @@
+{
+  "name": "node-note",
+  "version": "1.0.0",
+  "description": "Node学习笔记",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zouqin/node-note.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zouqin/node-note/issues"
+  },
+  "homepage": "https://github.com/zouqin/node-note#readme",
+  "devDependencies": {
+    "express": "^4.15.2",
+    "express-generator": "^4.15.0"
+  }
+}
